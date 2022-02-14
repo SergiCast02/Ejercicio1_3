@@ -1,3 +1,24 @@
 <resources>
     <string name="app_name">Ejercicio1_3</string>
+    <string name="firma">Sergio Castillo | PMLu-1</string>
+
+    <string name="title1">Menú</string>
+    <string name="btn1">Agregar Persona</string>
+    <string name="btn2">Listar Persona</string>
+
+
+    <string name="title2">Agregar Persona</string>
+
+    <string name="lbl1">Nombre</string>
+    <string name="lbl2">Apellidos</string>
+    <string name="lbl3">Edad</string>
+    <string name="lbl4">Correo Electrónico</string>
+    <string name="lbl5">Dirección</string>
+
+    <string name="btn3">Salvar</string>
+
+
+    <string name="title3">Personas Registradas:</string>
+
+    <string name="btn4">Regresar</string>
 </resources>

@@ -10,6 +10,15 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Ejercicio1_3">
         <activity
+            android:name=".ActivityPersona"
+            android:exported="false" />
+        <activity
+            android:name=".ActivityListar"
+            android:exported="false" />
+        <activity
+            android:name=".ActivityAgregar"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
